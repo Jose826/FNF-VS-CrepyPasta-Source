@@ -44,8 +44,7 @@ class VideoOverState extends MusicBeatSubstate
                 shouldSay = 'dont press the unowns';
         }
 
-        video = new FlxVideo(Paths.video(curVideo));
-        video.finishCallback = function()
+        
         {
             FlxG.sound.playMusic(Paths.music('menuTheme', 'creepy'));
 
@@ -114,7 +113,7 @@ class VideoOverState extends MusicBeatSubstate
             }
             #end
 
-            video.stopVideo(true);
+            
             #if !desktop
             MusicBeatState.resetState();
             LoadingState.loadAndSwitchState(new PlayState(), true);
