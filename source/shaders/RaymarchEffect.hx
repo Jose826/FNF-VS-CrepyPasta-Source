@@ -109,6 +109,7 @@ class RaymarchEffect {
   
       void main()
       {
+          #pragma body
           vec2 uv = openfl_TextureCoordv - vec2(0.5);
           vec3 ro = vec3(0, 0., -2);
   
