@@ -108,6 +108,10 @@ class MainMenuState extends MusicBeatState
 
 		super.create();
 		
+		#if android
+		addVirtualPad(UP_DOWN, A_B);
+		#end
+		
 		textGrp.forEach(function(text:Alphabet)
 		{
 			text.alpha = 0;
@@ -282,6 +286,10 @@ class StartSubstate extends MusicBeatSubstate
 		vhs.alpha = 0.5;
 		vhs.animation.play('uh');
 		// add(vhs);
+		
+		#if android
+		addVirtualPad(UP_DOWN, A_B);
+		#end
 	}
 
 	override public function update(elapsed:Float)
@@ -393,6 +401,10 @@ class OthersSubState extends MusicBeatSubstate
 		vhs.alpha = 0.5;
 		vhs.animation.play('uh');
 		// add(vhs);
+		
+		#if android
+		addVirtualPad(UP_DOWN, B);
+		#end
 	}
 
 	function regenText(idThing:Int, clearGrp:Bool = true)
