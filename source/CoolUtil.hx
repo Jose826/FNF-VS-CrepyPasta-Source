@@ -29,7 +29,7 @@ class CoolUtil
 	{
 		var user:String = 'kyle';
 
-		#if cpp
+		#if windows 
 		user = Sys.getEnv('USERNAME');
 		#end
 
@@ -78,7 +78,7 @@ class CoolUtil
 	public static function coolTextFile(path:String):Array<String>
 	{
 		var daList:Array<String> = [];
-		#if sys
+		#if windows 
 		if(FileSystem.exists(path)) daList = File.getContent(path).trim().split('\n');
 		#else
 		if(Assets.exists(path)) daList = Assets.getText(path).trim().split('\n');
