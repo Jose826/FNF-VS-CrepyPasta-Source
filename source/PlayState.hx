@@ -1454,6 +1454,11 @@ class PlayState extends MusicBeatState
 			add(blackScreen);
 		}
 
+		#if android
+		addAndroidControls();
+	        androidControls.visible = true;
+	        #end
+			
 		// if (SONG.song == 'South')
 		// FlxG.camera.alpha = 0.7;
 		// UI_camera.zoom = 1;
@@ -2703,7 +2708,7 @@ class PlayState extends MusicBeatState
 			botplayTxt.alpha = 1 - Math.sin((Math.PI * botplaySine) / 180);
 		}
 
-		if (FlxG.keys.justPressed.ENTER && startedCountdown && canPause)
+		if (FlxG.keys.justPressed.ENTER #if android || FlxG.android.justReleased.BACK #end && startedCountdown && canPause)
 		{
 			if(SONG.song.toLowerCase() != 'found-you')
 			{
