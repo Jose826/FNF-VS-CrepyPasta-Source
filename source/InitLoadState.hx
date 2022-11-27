@@ -82,25 +82,25 @@ class InitLoadState extends MusicBeatState
 		add(vhs);
 
 		#if cpp
-		for(i in FileSystem.readDirectory(FileSystem.absolutePath("assets/songs")))
+		for(i in HSys.readDirectory(Main.path + "assets/songs"))
 		{
 			music.push(i);
 		}
 
 		#if MODS_ALLOWED
-		for(i in FileSystem.readDirectory(FileSystem.absolutePath(Paths.modFolders('songs'))))
+		for(i in HSys.readDirectory(Paths.modFolders(Main.path + 'songs')))
 		{
 			music.push(i);
 		}
 
-		for(i in FileSystem.readDirectory(FileSystem.absolutePath(Paths.modFolders('stages'))))
+		for(i in HSys.readDirectory(Paths.modFolders(Main.path + 'stages')))
 		{
 			if(!i.endsWith('.lua'))
 				continue;
 			stages.push(i);
 		}
 
-		for(i in FileSystem.readDirectory(FileSystem.absolutePath("assets/characters")))
+		for(i in HSys.readDirectory(Main.path + "assets/characters"))
 		{
 			if (!i.endsWith('.json'))
 				continue;
