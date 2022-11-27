@@ -85,6 +85,10 @@ class GameOverSubstate extends MusicBeatSubstate
 
 		if(PlayState.SONG.song.toLowerCase() == 'unhealing')
 			FlxG.sound.play(Paths.sound('Ben_Laugh', 'creepy'));
+		
+		#if android
+		addVirtualPad(NONE, A_B);
+		#end
 	}
 
 	override function update(elapsed:Float)
