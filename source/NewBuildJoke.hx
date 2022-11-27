@@ -35,8 +35,7 @@ class NewBuildJoke extends MusicBeatState
             FlxG.sound.music.stop();
             FlxG.camera.filtersEnabled = false;
             remove(text1);
-            var video:FlxVideo = new FlxVideo(Paths.video('bruh'));
-            video.finishCallback = function()
+            
             {
                 var text2:FlxText = text1;
                 text2.y -= 80;
