@@ -27,6 +27,7 @@ class WaveHeatSource extends FlxShader
     uniform float iTime;
 
     void main(){
+        #pragma body
         vec2 uv = openfl_TextureCoordv;
        
         for(float i = 1.0; i < 8.0; i++){
