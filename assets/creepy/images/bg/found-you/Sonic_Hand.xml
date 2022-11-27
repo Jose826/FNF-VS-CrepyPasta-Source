@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonic_Hand.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Catch0000" x="0" y="0" width="212" height="159" frameX="-284" frameY="-223" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0001" x="212" y="0" width="212" height="202" frameX="-284" frameY="-180" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0002" x="424" y="0" width="212" height="306" frameX="-284" frameY="-76" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0003" x="636" y="0" width="327" height="382" frameX="-284" frameY="0" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0004" x="636" y="0" width="327" height="382" frameX="-284" frameY="0" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0005" x="0" y="382" width="329" height="376" frameX="-284" frameY="-6" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0006" x="329" y="382" width="328" height="376" frameX="-285" frameY="-6" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0007" x="329" y="382" width="328" height="376" frameX="-285" frameY="-6" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0008" x="657" y="382" width="304" height="373" frameX="-285" frameY="-9" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0009" x="0" y="758" width="322" height="326" frameX="-174" frameY="-56" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0010" x="322" y="758" width="491" height="275" frameX="-5" frameY="-107" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0011" x="322" y="758" width="491" height="275" frameX="-5" frameY="-107" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0012" x="0" y="1084" width="486" height="154" frameX="-10" frameY="-228" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0013" x="0" y="1084" width="486" height="154" frameX="-10" frameY="-228" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0014" x="486" y="1084" width="496" height="159" frameX="0" frameY="-223" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0015" x="486" y="1084" width="496" height="159" frameX="0" frameY="-223" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0016" x="0" y="1084" width="486" height="154" frameX="-9" frameY="-227" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0017" x="0" y="1084" width="486" height="154" frameX="-9" frameY="-227" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0018" x="322" y="758" width="491" height="275" frameX="-4" frameY="-106" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0019" x="657" y="382" width="304" height="373" frameX="-284" frameY="-8" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0020" x="329" y="382" width="328" height="376" frameX="-284" frameY="-5" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0021" x="329" y="382" width="328" height="376" frameX="-284" frameY="-5" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0022" x="329" y="382" width="328" height="376" frameX="-284" frameY="-5" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0023" x="0" y="1243" width="327" height="382" frameX="-284" frameY="0" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0024" x="0" y="1243" width="327" height="382" frameX="-284" frameY="0" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0025" x="327" y="1243" width="212" height="307" frameX="-284" frameY="-75" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0026" x="539" y="1243" width="212" height="202" frameX="-284" frameY="-180" frameWidth="613" frameHeight="382"/>
+	<SubTexture name="Catch0027" x="0" y="0" width="212" height="159" frameX="-284" frameY="-222" frameWidth="613" frameHeight="382"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm, so dont add stuff like other mods, i just made this functional for the fanmades of THIS mod
+
+dont add other mods beacuse you know, gonna be buggy some crashes and stuff(maybe im fixing this on a future ;) )
+
+and dont add any dificulty, just add the normal
+
+icons: winning frames are optional, i added a thing that makes that actually just 2 frames works
+
+if you put on a .json stage "isPixelStage": true, the cam note movement dont gonna work
+
+you dont need to add note camera movement script, is already on the game
+
+dont delete the .lua file named modcharts.lua on script folder

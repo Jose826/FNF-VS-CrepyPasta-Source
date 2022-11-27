@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonic_Exe_Laughj.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bruh0000" x="0" y="0" width="148" height="122" frameX="-15" frameY="-7" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0001" x="148" y="0" width="152" height="147" frameX="-7" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0002" x="300" y="0" width="161" height="150" frameX="0" frameY="-5" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0003" x="0" y="150" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0004" x="162" y="150" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0005" x="324" y="150" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0006" x="0" y="290" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0007" x="162" y="290" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0008" x="0" y="150" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0009" x="162" y="150" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0010" x="324" y="290" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0011" x="0" y="430" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0012" x="162" y="430" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0013" x="324" y="430" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0014" x="324" y="430" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0015" x="0" y="570" width="162" height="140" frameX="0" frameY="-8" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0016" x="162" y="570" width="159" height="148" frameX="-3" frameY="-6" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0017" x="321" y="570" width="157" height="155" frameX="-5" frameY="-2" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0018" x="0" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0019" x="158" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0020" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0021" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0022" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0023" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0024" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0025" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0026" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0027" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0028" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+	<SubTexture name="bruh0029" x="316" y="725" width="158" height="161" frameX="-6" frameY="0" frameWidth="164" frameHeight="161"/>
+</TextureAtlas>

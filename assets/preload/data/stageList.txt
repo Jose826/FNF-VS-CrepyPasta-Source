@@ -1,0 +1,12 @@
+stage
+spooky
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil
+hill-exe
+ben
+void
+bellsprout

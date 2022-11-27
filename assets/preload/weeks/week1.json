@@ -1,0 +1,49 @@
+{
+	"storyName": "...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "haunted",
+	"weekBefore": "haunted",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"found you",
+			"sonic-exe",
+			[
+				0,
+				0,
+				253
+			]
+		],
+		[
+			"unhealing",
+			"ben-drowned",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"perish",
+			"gold-alive",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "haunted_games"
+}

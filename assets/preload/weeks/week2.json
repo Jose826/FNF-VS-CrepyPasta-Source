@@ -1,0 +1,25 @@
+{
+	"storyName": "needlemouse perish",
+	"hideFreeplay": false,
+	"weekBackground": "haunted",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Only me",
+			"needlemouse",
+			[
+				135,
+				33,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "needlemouse_song"
+}

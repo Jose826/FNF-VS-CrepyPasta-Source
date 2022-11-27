@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-5,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				41,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				20,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				34,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				173,
+				507
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dying",
+			"indices": [],
+			"name": "ded"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gold_Almost_Dead",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "gold-dead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		102,
+		102
+	],
+	"camera_position": [
+		-160,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

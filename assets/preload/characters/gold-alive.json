@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				81,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				111,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				4,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				635,
+				148
+			],
+			"anim": "rip",
+			"fps": 24,
+			"name": "die",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gold_Alive",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gold-alive",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		102,
+		102
+	],
+	"camera_position": [
+		-680,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

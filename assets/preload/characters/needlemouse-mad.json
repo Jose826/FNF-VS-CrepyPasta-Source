@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NeedleIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NeedleSingLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-158
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NeedleSingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				66
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NeedleSingUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-51
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NeedleSingRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Needlemouse_Mad",
+	"position": [
+		40,
+		230
+	],
+	"healthicon": "needlemouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		0,
+		255
+	],
+	"camera_position": [
+		20,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

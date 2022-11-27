@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rocky.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rocky0000" x="0" y="0" width="389" height="192" frameX="0" frameY="-5" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0001" x="0" y="0" width="389" height="192" frameX="0" frameY="-5" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0002" x="389" y="0" width="388" height="195" frameX="0" frameY="-2" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0003" x="389" y="0" width="388" height="195" frameX="0" frameY="-2" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0004" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0005" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0006" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0007" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0008" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0009" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0010" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0011" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0012" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+	<SubTexture name="Rocky0013" x="0" y="195" width="384" height="197" frameX="-3" frameY="0" frameWidth="389" frameHeight="197"/>
+</TextureAtlas>

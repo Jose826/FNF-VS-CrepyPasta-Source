@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="moon.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MoonBop0000" x="0" y="0" width="537" height="444" frameX="0" frameY="-98" frameWidth="537" frameHeight="548"/>
+	<SubTexture name="MoonBop0001" x="0" y="0" width="537" height="444" frameX="0" frameY="-98" frameWidth="537" frameHeight="548"/>
+	<SubTexture name="MoonBop0002" x="0" y="444" width="537" height="488" frameX="0" frameY="-56" frameWidth="537" frameHeight="548"/>
+	<SubTexture name="MoonBop0003" x="0" y="444" width="537" height="488" frameX="0" frameY="-56" frameWidth="537" frameHeight="548"/>
+	<SubTexture name="MoonBop0004" x="0" y="932" width="537" height="548"/>
+	<SubTexture name="MoonBop0005" x="0" y="932" width="537" height="548"/>
+	<SubTexture name="MoonBop0006" x="0" y="932" width="537" height="548"/>
+	<SubTexture name="MoonBop0007" x="0" y="932" width="537" height="548"/>
+	<SubTexture name="MoonBop0008" x="0" y="932" width="537" height="548"/>
+	<SubTexture name="MoonBop0009" x="0" y="932" width="537" height="548"/>
+	<SubTexture name="MoonBop0010" x="0" y="932" width="537" height="548"/>
+	<SubTexture name="MoonBop0011" x="0" y="932" width="537" height="548"/>
+	<SubTexture name="MoonBop0012" x="0" y="932" width="537" height="548"/>
+	<SubTexture name="MoonBop0013" x="0" y="932" width="537" height="548"/>
+</TextureAtlas>

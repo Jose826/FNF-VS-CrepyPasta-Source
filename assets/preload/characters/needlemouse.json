@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NeedleIdle"
+		},
+		{
+			"offsets": [
+				122,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NeedleSingLeft"
+		},
+		{
+			"offsets": [
+				10,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NeedleSingDown"
+		},
+		{
+			"offsets": [
+				74,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NeedleSingUp"
+		},
+		{
+			"offsets": [
+				5,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NeedleSingRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				7
+			],
+			"anim": "voiceline",
+			"fps": 24,
+			"name": "voiceline",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-3
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "voiceline",
+			"indices": [
+				98,
+				97
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Needlemouse_Assets",
+	"position": [
+		40,
+		230
+	],
+	"healthicon": "needlemouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		0,
+		255
+	],
+	"camera_position": [
+		20,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ben_Drowned.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BENSingDown0000" x="0" y="0" width="425" height="489" frameX="0" frameY="-30" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0001" x="425" y="0" width="421" height="495" frameX="-2" frameY="-24" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0002" x="846" y="0" width="417" height="503" frameX="-6" frameY="-17" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0003" x="1263" y="0" width="418" height="516" frameX="-6" frameY="-4" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0004" x="1263" y="0" width="418" height="516" frameX="-6" frameY="-4" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0005" x="1681" y="0" width="416" height="520" frameX="-6" frameY="0" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0006" x="2097" y="0" width="415" height="520" frameX="-6" frameY="0" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0007" x="2512" y="0" width="416" height="520" frameX="-6" frameY="0" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0008" x="2512" y="0" width="416" height="520" frameX="-6" frameY="0" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0009" x="2512" y="0" width="416" height="520" frameX="-6" frameY="0" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0010" x="2512" y="0" width="416" height="520" frameX="-6" frameY="0" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0011" x="2512" y="0" width="416" height="520" frameX="-6" frameY="0" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0012" x="2512" y="0" width="416" height="520" frameX="-6" frameY="0" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingDown0013" x="2512" y="0" width="416" height="520" frameX="-6" frameY="0" frameWidth="425" frameHeight="520"/>
+	<SubTexture name="BENSingLeft0000" x="2928" y="0" width="406" height="614" frameX="0" frameY="-10" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0001" x="3334" y="0" width="391" height="616" frameX="-20" frameY="-8" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0002" x="0" y="616" width="380" height="613" frameX="-31" frameY="-10" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0003" x="380" y="616" width="370" height="617" frameX="-36" frameY="-6" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0004" x="750" y="616" width="370" height="623" frameX="-36" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0005" x="1120" y="616" width="369" height="624" frameX="-37" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0006" x="1489" y="616" width="369" height="624" frameX="-37" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0007" x="1489" y="616" width="369" height="624" frameX="-37" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0008" x="1489" y="616" width="369" height="624" frameX="-37" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0009" x="1489" y="616" width="369" height="624" frameX="-37" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0010" x="1489" y="616" width="369" height="624" frameX="-37" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0011" x="1489" y="616" width="369" height="624" frameX="-37" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0012" x="1489" y="616" width="369" height="624" frameX="-37" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingLeft0013" x="1489" y="616" width="369" height="624" frameX="-37" frameY="0" frameWidth="411" frameHeight="624"/>
+	<SubTexture name="BENSingRight0000" x="1858" y="616" width="475" height="601" frameX="-4" frameY="-34" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0001" x="2333" y="616" width="468" height="605" frameX="-1" frameY="-30" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0002" x="2801" y="616" width="477" height="615" frameX="0" frameY="-19" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0003" x="3278" y="616" width="471" height="618" frameX="-1" frameY="-15" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0004" x="0" y="1240" width="462" height="625" frameX="-4" frameY="-9" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0005" x="462" y="1240" width="443" height="629" frameX="-4" frameY="-5" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0006" x="905" y="1240" width="432" height="632" frameX="-4" frameY="-3" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0007" x="905" y="1240" width="432" height="632" frameX="-4" frameY="-3" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0008" x="1337" y="1240" width="430" height="635" frameX="-4" frameY="0" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0009" x="1767" y="1240" width="429" height="635" frameX="-4" frameY="0" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0010" x="1767" y="1240" width="429" height="635" frameX="-4" frameY="0" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0011" x="1767" y="1240" width="429" height="635" frameX="-4" frameY="0" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0012" x="1767" y="1240" width="429" height="635" frameX="-4" frameY="0" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingRight0013" x="1767" y="1240" width="429" height="635" frameX="-4" frameY="0" frameWidth="479" frameHeight="635"/>
+	<SubTexture name="BENSingUp0000" x="2196" y="1240" width="341" height="697" frameX="-2" frameY="0" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0001" x="2537" y="1240" width="342" height="677" frameX="-6" frameY="-17" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0002" x="2879" y="1240" width="354" height="663" frameX="0" frameY="-30" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0003" x="3233" y="1240" width="354" height="661" frameX="0" frameY="-32" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0004" x="3587" y="1240" width="354" height="663" frameX="0" frameY="-30" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0005" x="3587" y="1240" width="354" height="663" frameX="0" frameY="-30" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0006" x="0" y="1937" width="354" height="661" frameX="0" frameY="-32" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0007" x="354" y="1937" width="354" height="661" frameX="0" frameY="-32" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0008" x="708" y="1937" width="354" height="661" frameX="0" frameY="-32" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0009" x="1062" y="1937" width="354" height="661" frameX="0" frameY="-32" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0010" x="1062" y="1937" width="354" height="661" frameX="0" frameY="-32" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0011" x="1062" y="1937" width="354" height="661" frameX="0" frameY="-32" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0012" x="1062" y="1937" width="354" height="661" frameX="0" frameY="-32" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENSingUp0013" x="1062" y="1937" width="354" height="661" frameX="0" frameY="-32" frameWidth="354" frameHeight="697"/>
+	<SubTexture name="BENidle0000" x="1416" y="1937" width="365" height="653"/>
+	<SubTexture name="BENidle0001" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0002" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0003" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0004" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0005" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0006" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0007" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0008" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0009" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0010" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0011" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0012" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="BENidle0013" x="1781" y="1937" width="365" height="652" frameX="0" frameY="-1" frameWidth="365" frameHeight="653"/>
+	<SubTexture name="Ben laugh0000" x="2146" y="1937" width="369" height="624" frameX="-4" frameY="-12" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0001" x="2515" y="1937" width="375" height="624" frameX="-1" frameY="-11" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0002" x="2890" y="1937" width="378" height="612" frameX="0" frameY="-22" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0003" x="3268" y="1937" width="375" height="610" frameX="-1" frameY="-24" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0004" x="3643" y="1937" width="366" height="607" frameX="-5" frameY="-27" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0005" x="0" y="2598" width="367" height="611" frameX="-5" frameY="-24" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0006" x="367" y="2598" width="365" height="613" frameX="-6" frameY="-23" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0007" x="732" y="2598" width="365" height="618" frameX="-6" frameY="-18" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0008" x="1097" y="2598" width="365" height="619" frameX="-6" frameY="-17" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0009" x="1462" y="2598" width="365" height="628" frameX="-6" frameY="-8" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0010" x="1827" y="2598" width="365" height="636" frameX="-6" frameY="0" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0011" x="1827" y="2598" width="365" height="636" frameX="-6" frameY="0" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0012" x="1827" y="2598" width="365" height="636" frameX="-6" frameY="0" frameWidth="378" frameHeight="636"/>
+	<SubTexture name="Ben laugh0013" x="1827" y="2598" width="365" height="636" frameX="-6" frameY="0" frameWidth="378" frameHeight="636"/>
+</TextureAtlas>

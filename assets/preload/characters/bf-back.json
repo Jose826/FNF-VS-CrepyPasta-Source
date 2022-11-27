@@ -1,0 +1,165 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BfIdleDance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				75
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bfSingLeftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bfSingLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bfSingRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				88
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bfSingRightMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				32
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bfSingDownMISS",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfSingDown",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				-36,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "bfSingUpMISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfSingUp",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_back",
+	"position": [
+		120,
+		210
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		240,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

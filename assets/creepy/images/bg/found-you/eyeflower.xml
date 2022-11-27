@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eyeflower.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eyeflower0000" x="0" y="0" width="246" height="576" frameX="0" frameY="-7" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0001" x="246" y="0" width="246" height="576" frameX="0" frameY="-7" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0002" x="492" y="0" width="234" height="578" frameX="-8" frameY="-5" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0003" x="726" y="0" width="234" height="578" frameX="-8" frameY="-5" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0004" x="960" y="0" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0005" x="1183" y="0" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0006" x="1406" y="0" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0007" x="1629" y="0" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0008" x="0" y="583" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0009" x="0" y="583" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0010" x="223" y="583" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0011" x="223" y="583" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0012" x="446" y="583" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+	<SubTexture name="eyeflower0013" x="446" y="583" width="223" height="583" frameX="-14" frameY="0" frameWidth="246" frameHeight="583"/>
+</TextureAtlas>
