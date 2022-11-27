@@ -27,6 +27,7 @@ class NegativeEffectShader extends FlxShader
 
     void main()
     {
+        #pragma body
         vec2 uv = ${Shader.vTexCoord}.xy / iResolution.xy;
         vec4 color = texture2D(${Shader.uSampler}, uv);
             
