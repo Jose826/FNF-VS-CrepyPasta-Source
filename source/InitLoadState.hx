@@ -95,7 +95,8 @@ class InitLoadState extends MusicBeatState
 
 		for(i in HSys.readDirectory(Paths.modFolders(Main.path + 'stages')))
 		{
-			if(!i.endsWith('.lua'))
+			if (!i.endsWith(".lua"))
+                
 				continue;
 			stages.push(i);
 		}
