@@ -242,6 +242,10 @@ class TitleState extends MusicBeatState
 		vhs.screenCenter();
 		vhs.animation.play('vhs');
 		// add(vhs);
+		
+		#if android
+addVirtualPad(NONE, A_B);
+#end
 	}
 
 	override function update(elapsed:Float)
