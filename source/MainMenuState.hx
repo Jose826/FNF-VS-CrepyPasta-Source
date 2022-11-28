@@ -288,7 +288,7 @@ class StartSubstate extends MusicBeatSubstate
 		// add(vhs);
 		
 		#if android
-		addVirtualPad(UP_DOWN, A_B);
+		addVirtualPad(UP_DOWN, A_B_C);
 		#end
 	}
 
@@ -306,6 +306,14 @@ class StartSubstate extends MusicBeatSubstate
 		if (controls.BACK)
 			close();
 
+		#if android
+		if (virtualPad.buttonC.justPressed) {
+			#if android
+			removeVirtualPad();
+			#end
+			MusicBeatState.switchState(new android.AndroidControlsSubState());
+		}
+		#end
 		if (controls.ACCEPT)
 		{
 			switch(options[curSelected])
