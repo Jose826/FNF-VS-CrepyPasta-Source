@@ -22,11 +22,11 @@ class MainMenuState extends MusicBeatState
 	var textGrp:FlxTypedGroup<Alphabet>;
 	var options:Array<String> = [
 		'start',
-		#if MODS_ALLOWED
+		
 		'others',
-		#else
+		
 		'options',
-		#end
+		
 		'twitter',
 		'credits'
 	];
@@ -311,7 +311,7 @@ class StartSubstate extends MusicBeatSubstate
 			#if android
 			removeVirtualPad();
 			#end
-			MusicBeatState.switchState(new android.AndroidControlsSubState());
+			openSubState(new android.AndroidControlsSubState());
 		}
 		#end
 		if (controls.ACCEPT)
